@@ -3,9 +3,11 @@ inherit perl
 
 NAME="perl-Text-Patch"
 VERSION=1.8
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl module for applying patches"
 DESCRIPTION="Text::Patch combines source text with given diff (difference)
 data. Diff data is produced by Text::Diff module or by the standard diff
 utility (man diff, see -u option)."
+
+ARCH=noarch
