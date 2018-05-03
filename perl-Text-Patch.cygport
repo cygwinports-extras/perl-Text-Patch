@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Text-Patch"
 VERSION=1.8
-RELEASE=2
+RELEASE=3
 CATEGORY="Perl"
 SUMMARY="Perl module for applying patches"
 DESCRIPTION="Text::Patch combines source text with given diff (difference)
